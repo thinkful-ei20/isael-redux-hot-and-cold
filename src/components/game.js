@@ -8,13 +8,6 @@ import InfoSection from './info-section';
 import { connect } from 'react-redux';
 
 class Game extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-     
-    };
-  }
-
   render() {
     return (
       <div>
